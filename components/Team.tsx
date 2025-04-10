@@ -10,9 +10,9 @@ export default function Team() {
     <div className="flex flex-col items-center px-4 md:px-8 lg:px-16">
       <h5 className="text-center text-5xl font-bold mt-8">The DevTrio team</h5>
       <h5 className="text-center text-xl mb-4 font-normal pb-10 flex flex-row gap-3 items-center pt-5">
-      <TbSteam />
-      About us
-      <TbSteam />
+        <TbSteam />
+        About us
+        <TbSteam />
       </h5>
 
       <div className="flex flex-col lg:flex-row items-center gap-6 justify-center mb-8">
@@ -27,7 +27,7 @@ export default function Team() {
         </div>
         <div className="w-full lg:w-1/2">
           <p className="mb-4 text-justify">
-            Welcome to DevTrio IT Solutions Ltd. We are passionate about turning
+            Welcome to DevTrio  IT Solutions Ltd. We are passionate about turning
             your digital visions into tangible success. Based in the UK, with a
             remote team in Sri Lanka, we specialize in providing innovative web
             development, digital design, and mobile app development services.
